@@ -5,3 +5,4 @@ if (confirm("You are about to enter the world of Naruto!")) {
     alert("I guess you don't like Anime?");
   }
 
+prompt("What is your favorite anime?")
